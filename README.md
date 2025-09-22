@@ -34,7 +34,7 @@ This project follows a microservices architecture pattern with the following com
                             └──────────────────────┘
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── README.md
@@ -130,7 +130,7 @@ This project follows a microservices architecture pattern with the following com
             └── personel.ts
 ```
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 ### Backend Technologies
 - **Java 17**
@@ -194,7 +194,7 @@ This project follows a microservices architecture pattern with the following com
 -  **Type-safe Development** with TypeScript interfaces
 -  **REST API Integration** with Axios
 
-## 🔧 Configuration & Setup
+##  Configuration & Setup
 
 ### Prerequisites
 - **Java 17** or higher
@@ -346,7 +346,7 @@ npm test
 npx tsc --noEmit
 ```
 
-## 📝 Data Model
+##  Data Model
 
 ### Personnel Entity
 ```typescript
