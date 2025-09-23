@@ -38,10 +38,8 @@ This project follows a microservices architecture pattern with the following com
 
 ```
 ├── README.md
-├── Staj_Raporu.md
 ├── notification-backend/           # Notification Microservice
 │   ├── pom.xml
-│   ├── README.md
 │   ├── src/
 │   │   ├── main/
 │   │   │   ├── java/com/example/notification_backend/
@@ -71,7 +69,6 @@ This project follows a microservices architecture pattern with the following com
 │   └── target/
 ├── personal-backend/               # Main Backend Microservice
 │   ├── pom.xml
-│   ├── HELP.md
 │   ├── mvnw & mvnw.cmd
 │   ├── src/
 │   │   ├── main/
@@ -111,7 +108,6 @@ This project follows a microservices architecture pattern with the following com
     ├── vite.config.ts
     ├── tailwind.config.js
     ├── postcss.config.js
-    ├── README.md
     ├── public/
     │   └── index.html
     └── src/
