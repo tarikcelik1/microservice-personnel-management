@@ -1,13 +1,13 @@
 # Personel Management System
 
-A comprehensive microservices-based personnel management system built with Spring Boot backend services and React TypeScript frontend. The system provides full CRUD operations for personnel management with real-time notifications via RabbitMQ and email alerts.
+A microservices-based personnel management system built with Spring Boot backend services and React TypeScript frontend. The system provides full CRUD operations for personnel management with notifications via RabbitMQ and email alerts.
 
 ##  Architecture Overview
 
 This project follows a microservices architecture pattern with the following components:
 - **Personal Backend**: Main CRUD operations for personnel management
 - **Notification Backend**: Asynchronous notification service for personnel changes
-- **Personnel Frontend**: Modern React TypeScript SPA for user interface
+- **Personnel Frontend**: React TypeScript SPA for user interface
 
 ```
 ┌─────────────────────┐    ┌──────────────────────┐    ┌─────────────────────┐
